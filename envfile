@@ -1,6 +1,0 @@
-X_USERNAME=meghana648
-X_PASSWORD=Meghu@16
-X_REPONAME=meghana648/werckerdemo-1505
-X_TAGNAME="1505"
-X_CNT_NAME=test-wercker-container
-X_IMAGE_BASE="meghana648/werckerdemo-1505"
